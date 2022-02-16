@@ -1,2 +1,2 @@
-# Proyecto1_IntroCienciaDatos_ICFESPersonalizado
-Este repositorio almacena los archivos relacionados con el proyecto ICFES personalizado.
+# Proyecto1_IntroCienciaDatos_AnalisisCancerdeMama
+Este repositorio almacena los archivos relacionados con el proyecto análisis de cancer de mama.
